@@ -1,21 +1,4 @@
-package csdev.server;
 
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.net.InetAddress;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.net.SocketException;
-import java.util.Scanner;
-import java.util.TreeMap;
-import java.util.Vector;
-
-import csdev.*;
-
-
-
-public class ServerMain {
 
 	private static int MAX_USERS = 100;
 
